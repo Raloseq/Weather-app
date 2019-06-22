@@ -6,4 +6,4 @@ Simple weather app to understand how api works.
 * SCSS
 * JavaScript
 * OpenWeatherMap API
-*Geolocation API
+* Geolocation API
